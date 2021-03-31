@@ -2,12 +2,6 @@
 # yarn lockfile v1
 
 
-"@newsdev/archieml-loader@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@newsdev/archieml-loader/-/archieml-loader-0.0.1.tgz#1c8a9d8472a1d6ba147da08088f074ab353f8a0c"
-  dependencies:
-    archieml "^0.3.1"
-
 JSONStream@^0.8.4:
   version "0.8.4"
   resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-0.8.4.tgz#91657dfe6ff857483066132b4618b62e8f4887bd"
@@ -148,10 +142,6 @@ append-transform@^0.4.0:
 aproba@^1.0.3:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-1.1.2.tgz#45c6629094de4e96f693ef7eab74ae079c240fc1"
-
-archieml@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/archieml/-/archieml-0.3.1.tgz#809536956bb1b757b76c1066cf2ddd5ce40aad30"
 
 archieml@^0.4.2:
   version "0.4.2"
@@ -7119,8 +7109,8 @@ xml-char-classes@^1.0.0:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 yallist@^2.1.2:
   version "2.1.2"
